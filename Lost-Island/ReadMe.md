@@ -4,8 +4,8 @@ Due to github restrictions, the actual game was too big to push to the repo.
 To play, please download the game here ->
 https://drive.google.com/file/d/1oST5rnOM4RjzF-auQ7-7KVHNFJzagZ3U/view?usp=sharing
 
-Welcome to Felix & Leon Weingartner's Game Development and simulation programming game!
-Any problems, questions, or concerns please feel free to contact us at felix.weingartner@suusuccess.org
+Welcome to Leon & Felix Weingartner's Game Development and simulation programming game!
+Any problems, questions, or concerns please feel free to contact us at leonweingartner@gmail.com
 All code and documentation of this program are under copyright, all rights reserved
 (Note- Have this file on word wrap for easier reading, and highlight to keep track of your progress)
 
