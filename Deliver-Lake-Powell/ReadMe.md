@@ -21,10 +21,10 @@ https://user-images.githubusercontent.com/17464149/121131536-2e20a500-c7ed-11eb-
 Placing an order (example):
 
 Location information:
-  Name
-  Phone number
-  Dock name
-  Description of location (slip #)
+  Name, 
+  Phone number, 
+  Dock name, 
+  Description of location (slip #), 
 
 Food Order:
   Description of food order
@@ -35,9 +35,9 @@ Food Order:
 https://user-images.githubusercontent.com/17464149/121131562-34af1c80-c7ed-11eb-9855-9679989c1620.mp4
 
 Delivery Information:
-  Type of payment: Cash, Credit, Venmo
-  Date of delivery: Month Day, Year
-  Desired Time: available time slots for a given date (retrieved from database)
+Type of payment: Cash, Credit, Venmo
+Date of delivery: Month Day, Year
+Desired Time: available time slots for a given date (retrieved from database)
   
 
 
@@ -45,7 +45,7 @@ Delivery Information:
 https://user-images.githubusercontent.com/17464149/121131584-3d9fee00-c7ed-11eb-9235-1972e327965e.mp4
 
 Delivery View:
-  Claim a placed order as a certified deliverer.
+Claim a placed order as a certified deliverer.
 
 
 
@@ -61,7 +61,7 @@ https://user-images.githubusercontent.com/17464149/121131598-40024800-c7ed-11eb-
 https://user-images.githubusercontent.com/17464149/121131610-4264a200-c7ed-11eb-8b60-20851a220b0a.mp4
 
 Delivery View:
-  Complete an order after successfully delivering the food. 
+Complete an order after successfully delivering the food. 
 
 
 
