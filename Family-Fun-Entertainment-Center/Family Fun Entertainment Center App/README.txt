@@ -1,4 +1,3 @@
-Hello sir/madam,
 
 This project is for the desktop programming category - FBLA.
 The user interface should be simple to navigate, but instructions are provided in the help window.
