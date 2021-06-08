@@ -21,13 +21,13 @@ https://user-images.githubusercontent.com/17464149/121131536-2e20a500-c7ed-11eb-
 Placing an order (example):
 
 Location information:
-  Name, 
-  Phone number, 
-  Dock name, 
-  Description of location (slip #), 
+Name
+Phone number 
+Dock name
+Description of location (slip #)
 
 Food Order:
-  Description of food order
+Description of food order
 
 
 
@@ -36,7 +36,9 @@ https://user-images.githubusercontent.com/17464149/121131562-34af1c80-c7ed-11eb-
 
 Delivery Information:
 Type of payment: Cash, Credit, Venmo
+
 Date of delivery: Month Day, Year
+
 Desired Time: available time slots for a given date (retrieved from database)
   
 
@@ -53,7 +55,7 @@ Claim a placed order as a certified deliverer.
 https://user-images.githubusercontent.com/17464149/121131598-40024800-c7ed-11eb-8a2b-8b8df4e66ad0.mp4
 
 
- Customers delivery status will update accordingly and cannot place another order until original order has been completed
+Customers delivery status will update accordingly and cannot place another order until original order has been completed
 
 
 
